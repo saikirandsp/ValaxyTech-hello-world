@@ -1,2 +1,10 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
